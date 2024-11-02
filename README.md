@@ -9,7 +9,7 @@ Experienced Data Scientist with strong skills in machine learning, data analytic
 
 #### **Education**
 - **Kryvyi Rih National Aviation College**  
-  Faculty: Software Engineering  
+  Major: Software Engineering  
   Currently a third-year student (Class of 2026)
 
 - **Course in Data Science and Machine Learning**  
