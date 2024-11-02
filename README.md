@@ -1,38 +1,38 @@
-## **Resume**
+### **Resume**
+
+---
 
 **Open to new job opportunities in Data Science!**
 
-### **Summary**
-Experienced Data Scientist with solid knowledge in machine learning, data analytics, and database management. Skilled in creating and deploying complex data models to solve real-world problems, including image recognition, activity classification, and recommendation systems. Enthusiastic and highly adaptable, with a commitment to continuous learning and professional growth.
+#### **Summary**
+Experienced Data Scientist with solid knowledge in machine learning, data analytics, and database management. Skilled in creating and deploying complex data models to solve real-world problems, including image recognition, activity classification, and recommendation systems. Improved accuracy across multiple models by up to 10% through advanced optimization techniques. Enthusiastic and highly adaptable, with a commitment to continuous learning and professional growth.
 
 ---
 
-### **Education**
+#### **Education**
 - **Separate Structural Subdivision "Kryvyi Rih Vocational College of the National Aviation University"**  
   Major: Computer and Software Engineering  
-  Currently a third-year student (Class of 2026)
+  Currently a third-year student (2021–2026)
 
 ---
 
-### **Certifications and Courses**
+#### **Certifications and Courses**
 - **Data Science and Machine Learning**  
-  Offered by *GO IT*  
-  Completion Date: 2024
+  Offered by *GO IT*, Completion Date: 2024
 
-- **Python Core**
-  Offered by *GO IT*  
-  Completion Date: 2024
+- **Python Core**  
+  Offered by *GO IT*, Completion Date: 2024
 
 ---
 
-### **Technical Skills**
-**Programming & Libraries**: Python, SQL, MongoDB, TensorFlow, Keras, SciKit-Learn, Surprise, Numpy, Pandas, Matplotlib, Seaborn  
-**Data Engineering**: Data preprocessing, feature engineering, clustering, model evaluation  
-**Tools**: Docker, BeautifulSoup, Optuna (for hyperparameter tuning)
+#### **Technical Skills**
+- **Programming & Libraries**: Python, SQL, MongoDB, TensorFlow, Keras, SciKit-Learn, Surprise, Numpy, Pandas, Matplotlib, Seaborn  
+- **Data Engineering**: Data preprocessing, feature engineering, clustering, model evaluation  
+- **Tools**: Docker, BeautifulSoup, Optuna (for hyperparameter tuning)
 
 ---
 
-### **Soft Skills**
+#### **Soft Skills**
 - Team collaboration
 - Strong communication
 - Critical and analytical thinking
@@ -41,7 +41,7 @@ Experienced Data Scientist with solid knowledge in machine learning, data analyt
 
 ---
 
-### **Project Highlights**
+#### **Project Highlights**
 
 1. **Handwritten Digit Recognition**  
    Created a neural network for the MNIST dataset with 92.4% accuracy, achieving precise digit recognition through advanced preprocessing and model evaluation techniques.  
@@ -67,7 +67,7 @@ Experienced Data Scientist with solid knowledge in machine learning, data analyt
 
 ---
 
-### **Contacts**
--  **Email:** vitaliy.dayneko2410@gmail.com
--  **LinkedIn:** ...
--  **Phone number:** +380 67 667 55 80
+#### **Contacts**
+- **Email:** vitaliy.dayneko2410@gmail.com
+- **LinkedIn:** [Add LinkedIn link]
+- **Phone number:** +380 67 667 55 80
