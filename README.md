@@ -5,7 +5,7 @@
 ---
 
 #### **Summary**
-Experienced Data Scientist with strong skills in machine learning, data analytics, and database management. Proficient in creating and deploying complex data models to solve real-world problems, including image recognition, activity classification, and recommendation systems. Enthusiastic and highly adaptable, with a commitment to continuous learning and professional growth.
+Experienced Data Scientist with skills in machine learning, data analytics, and database management. Proficient in creating and deploying complex data models to solve real-world problems, including image recognition, activity classification, and recommendation systems. Enthusiastic and highly adaptable, with a commitment to continuous learning and professional growth.
 
 #### **Education**
 - **Separate Structural Subdivision "Kryvyi Rih Vocational College of the National Aviation University"**  
