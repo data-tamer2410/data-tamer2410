@@ -8,8 +8,8 @@
 Experienced Data Scientist with strong skills in machine learning, data analytics, and database management. Proficient in creating and deploying complex data models to solve real-world problems, including image recognition, activity classification, and recommendation systems. Enthusiastic and highly adaptable, with a commitment to continuous learning and professional growth.
 
 #### **Education**
-- **Kryvyi Rih National Aviation College**  
-  Major: Software Engineering  
+- **Separate Structural Subdivision "Kryvyi Rih Vocational College of the National Aviation University"**  
+  Major: Computer and Software Engineering  
   Currently a third-year student (Class of 2026)
 
 - **Course in Data Science and Machine Learning**  
