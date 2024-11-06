@@ -28,7 +28,7 @@ Experienced Data Scientist with solid knowledge in machine learning, data analyt
 #### **Technical Skills**
 - **Programming & Libraries**: Python, SQL, MongoDB, TensorFlow, Keras, SciKit-Learn, Surprise, Numpy, Pandas, Matplotlib, Seaborn  
 - **Data Engineering**: Data preprocessing, feature engineering, clustering, model evaluation  
-- **Tools**: Docker, BeautifulSoup4, Poetry, Git, Conda, Optuna (for hyperparameter tuning)
+- **Tools**: Docker, BeautifulSoup4, Poetry, Git, Conda, Optuna (for hyperparameter tuning), Bash scripting
 
 ---
 
