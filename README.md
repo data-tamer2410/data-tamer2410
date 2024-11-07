@@ -43,7 +43,7 @@ Experienced Data Scientist with solid knowledge in machine learning, data analyt
 
 #### **Project Highlights**
 
-1. **Fashion MNIST Image Classifier**  
+1. **Fashion MNIST Classifier**  
    Designed a neural network using Keras and Optuna for image classification on the Fashion MNIST dataset. Achieved 93.24% accuracy on training data and 88.3% on testing data, showcasing the ability to meet and exceed model performance goals through meticulous hyperparameter tuning.  
    - *Technologies*: Keras, Optuna, TensorFlow, Numpy, Matplotlib, Pandas  
 
