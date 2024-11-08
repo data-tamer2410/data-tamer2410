@@ -69,5 +69,5 @@ Experienced Data Scientist with solid knowledge in machine learning, data analyt
 
 #### **Contacts**
 - **Email:** vitaliy.dayneko2410@gmail.com
-- **LinkedIn:** [Add LinkedIn link]
-- **Phone number:** +380 67 667 55 80
+- **LinkedIn:** [Soon]
+- **Phone number:** +38 (067) 667-55-80
