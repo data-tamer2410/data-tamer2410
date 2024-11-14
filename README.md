@@ -43,25 +43,25 @@ Experienced Data Scientist with solid knowledge in machine learning, data analyt
 
 #### **Project Highlights**
 
-1. **Fashion MNIST Classifier**  
-   Designed a neural network using Keras and Optuna for image classification on the Fashion MNIST dataset. Achieved 93.24% accuracy on training data and 88.3% on testing data, showcasing the ability to meet and exceed model performance goals through meticulous hyperparameter tuning.  
-   - *Technologies*: Keras, Optuna, TensorFlow, Numpy, Matplotlib, Pandas  
+1. **Fashion MNIST Classifier 2.0**  
+   Enhanced the image classification model for the Fashion MNIST dataset by implementing custom CNNs, VGG16 feature extraction, and fine-tuning pre-trained models. Integrated previous work on a simpler fully connected classifier to further boost performance.  
+   - *Technologies*: Keras, TensorFlow, SciKit-Learn, Numpy, Matplotlib  
 
-2. **Handwritten Digit Recognition**  
+2. **Fashion MNIST Classifier**  
+   Designed a neural network using Keras and Optuna for image classification on the Fashion MNIST dataset. Achieved 93.24% accuracy on training data and 88.3% on testing data, showcasing the ability to meet and exceed model performance goals through meticulous hyperparameter tuning.  
+   - *Technologies*: Keras, Optuna, TensorFlow, SciKit-Learn, Numpy, Matplotlib, Pandas  
+
+3. **Handwritten Digit Recognition**  
    Created a neural network for the MNIST dataset with 92.4% accuracy, achieving precise digit recognition through advanced preprocessing and model evaluation techniques.  
    - *Technologies*: TensorFlow, SciKit-Learn, Numpy, Matplotlib  
 
-3. **Accelerometer Activity Classification**  
+4. **Accelerometer Activity Classification**  
    Built a human activity classifier using Random Forest and k-NN to distinguish between activities, demonstrating potential applications in health monitoring and smart devices.  
    - *Technologies*: SciKit-Learn, Optuna, Pandas, Numpy, Matplotlib, Seaborn
 
-4. **MovieLens Recommender System**  
+5. **MovieLens Recommender System**  
    Developed a recommendation model using collaborative filtering, achieving personalized recommendations through extensive data processing and model tuning.  
    - *Technologies*: Surprise, Optuna, Pandas, Numpy, Matplotlib
-
-5. **House Price Predictor**  
-   Developed regression models (Random Forest, Gradient Boosting) with high accuracy for price prediction, employing cross-validation and hyperparameter tuning.  
-   - *Technologies*: SciKit-Learn, Optuna, Pandas, Numpy, Matplotlib, Seaborn
    
 [Portfolio Link](https://github.com/data-tamer2410/Data-Science-Portfolio) – See more projects with in-depth descriptions, methodologies, and code.
 
