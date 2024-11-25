@@ -70,5 +70,5 @@ Experienced Data Scientist with solid knowledge in machine learning, data analyt
 #### **Contacts**
 - **Email:** vitaliy.dayneko2410@gmail.com
 - **LinkedIn:** [Soon]
-- **UpWork:** [Account](https://www.upwork.com/freelancers/~01e7822b166891b847)
+- **UpWork:** https://www.upwork.com/freelancers/~01e7822b166891b847
 - **Phone number:** +38 (067) 667-55-80
