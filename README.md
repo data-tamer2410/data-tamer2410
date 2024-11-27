@@ -12,7 +12,7 @@ Experienced Data Scientist with solid knowledge in machine learning, data analyt
 #### **Education**
 - **Separate Structural Subdivision "Kryvyi Rih Vocational College of the National Aviation University"**  
   Major: Computer and Software Engineering  
-  Currently a third-year student (2021–2026)
+  Currently a third-year student (2022–2026)
 
 ---
 
