@@ -15,6 +15,14 @@ Experienced and results-driven Data Scientist with comprehensive expertise in al
 
 ---
 
+#### **Languages**
+ 
+-  **English:** Conversational
+-  **Russian:** Native or Bilingual
+-  **Ukrainian:** Native or Bilingual
+
+---
+
 #### **Courses and Other Experience**
 - **Course Data Scince and Machine Learning**
   - By IT school GOIT
