@@ -4,10 +4,7 @@
 
 #### **Summary**
 
-Experienced and results-driven Data Scientist with comprehensive expertise in all stages of data work: from collection and cleansing to analysis and integration. Skilled in web 
-scraping, database management, API integration, natural language processing (NLP), and machine learning model development. Proven experience in creating interactive dashboards and 
-deploying models into production environments. Strong analytical skills, adaptability, and a passion for solving complex problems enable the delivery of effective and scalable 
-solutions.
+Experienced and results-driven Data Scientist with comprehensive expertise in all stages of data work: from collection and cleansing to analysis and integration. Skilled in web scraping, database management, API integration, natural language processing (NLP), machine learning model development, and optimization. Proven experience in creating interactive dashboards, fine-tuning models for enhanced performance, and deploying them into production environments. Strong analytical skills, adaptability, and a passion for solving complex problems enable the delivery of effective and scalable solutions.
   
 ---
 
