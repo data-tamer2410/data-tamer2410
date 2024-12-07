@@ -48,7 +48,6 @@ Experienced and results-driven Data Scientist with comprehensive expertise in al
   - **Data Preprocessing**: Managed data padding and tokenization to prepare text data for recurrent models.  
   - **Model Evaluation**: Visualized training and validation results, analyzing differences in model performance across architectures.
 
-
 - [**Fashion MNIST Classifier 2.0**](https://github.com/data-tamer2410/ds-fashion-mnist-classifier-2.0)
 
   **Tech Stack**: Keras, SciKit-Learn, Numpy, Matplotlib, Pandas, Streamlit, Docker.
@@ -107,8 +106,9 @@ Experienced and results-driven Data Scientist with comprehensive expertise in al
 ---
 
 #### **Education**
-- **Separate Structural Subdivision "Kryvyi Rih Vocational College of the National Aviation University"**  
+- **Separate Structural Subdivision "Kryvyi Rih Vocational College of the National Aviation University"**
   - Computer and Software Engineering
+  - Associate's Degree
   - 2022 – 2025
 
 - **Data Scince and Machine Learning**
@@ -124,16 +124,6 @@ Experienced and results-driven Data Scientist with comprehensive expertise in al
   - July 2023 - July 2023
 
 ---
-
-
-
-
-
-
-
-
-
-
 
 [Portfolio Link](https://github.com/data-tamer2410/Data-Science-Portfolio) – See more projects with in-depth descriptions, methodologies, and code.
 
