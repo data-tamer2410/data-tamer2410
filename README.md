@@ -9,7 +9,7 @@ Experienced and results-driven Data Scientist with comprehensive expertise in al
 ---
 
 #### **Hard Skills**
-- **Programming & Libraries**: Python, SQL, PyMongo, TensorFlow, Keras, SciKit-Learn, NLTK, Requests, BeautifulSoup, Surprise, Numpy, Pandas, Matplotlib, Seaborn, Optuna, Streamlit.
+- **Programming & Libraries**: Python, SQL, MongoDB, TensorFlow, Keras, SciKit-Learn, NLTK, Requests, BeautifulSoup, Surprise, Numpy, Pandas, Matplotlib, Seaborn, Optuna, Streamlit.
 - **Tools**: Docker, Poetry, Git, Conda, Bash.
 
 ---
@@ -55,8 +55,10 @@ Experienced and results-driven Data Scientist with comprehensive expertise in al
   This project explores advanced techniques for image classification using the Fashion MNIST dataset, where I implemented multiple neural network architectures to enhance accuracy. The  
   task involved classifying images of various clothing items based on grayscale data, using methods such as convolutional neural networks (CNN), VGG16 for feature extraction, and fine-  
   tuning pre-trained models for better performance. As part of this project, I developed an interactive web dashboard to visualize model predictions and provide insights into the 
-  dataset [Dashboard](https://ds-fashion-mnist-classifier-2-0.onrender.com). 
+  dataset. 
 
+  **Interactive Web Dashboard**: https://ds-fashion-mnist-classifier-2-0.onrender.com
+  
   **Key Achievements**:
   - **Multiple Model Approaches**: Developed custom CNN, utilized VGG16 for feature extraction, and fine-tuned VGG16 layers to maximize classification accuracy.  
   - **Previous Work Integration**: Built on a previous project where I created a simpler fully connected classifier for the Fashion MNIST dataset.  
