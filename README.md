@@ -25,9 +25,9 @@ Experienced and results-driven Data Scientist with comprehensive expertise in al
 
 #### **Languages**
  
--  **English:** Pre-Intermediate
--  **Russian:** Native 
--  **Ukrainian:** Native
+-  **English**: Pre-Intermediate
+-  **Russian**: Native 
+-  **Ukrainian**: Native
 
 ---
 
@@ -58,9 +58,9 @@ Experienced and results-driven Data Scientist with comprehensive expertise in al
   dataset [Dashboard](https://ds-fashion-mnist-classifier-2-0.onrender.com). 
 
   **Key Achievements**:
-  - **Multiple Model Approaches:** Developed custom CNN, utilized VGG16 for feature extraction, and fine-tuned VGG16 layers to maximize classification accuracy.  
-  - **Previous Work Integration:** Built on a previous project where I created a simpler fully connected classifier for the Fashion MNIST dataset.  
-  - **Real-World Impact:** Demonstrated the potential for using these techniques in practical applications like retail and fashion e-commerce. 
+  - **Multiple Model Approaches**: Developed custom CNN, utilized VGG16 for feature extraction, and fine-tuned VGG16 layers to maximize classification accuracy.  
+  - **Previous Work Integration**: Built on a previous project where I created a simpler fully connected classifier for the Fashion MNIST dataset.  
+  - **Real-World Impact**: Demonstrated the potential for using these techniques in practical applications like retail and fashion e-commerce. 
 
 - [**Eyes Classification**](https://github.com/data-tamer2410/ds-eyes-classification)
 
@@ -130,7 +130,7 @@ Experienced and results-driven Data Scientist with comprehensive expertise in al
 ---
 
 #### **Contacts**
-- **Email:** vitaliy.dayneko2410@gmail.com
-- **LinkedIn:** [Soon]
-- **UpWork:** https://www.upwork.com/freelancers/~01e7822b166891b847
-- **Phone number:** +38 (067) 667-55-80
+- **Email**: vitaliy.dayneko2410@gmail.com
+- **LinkedIn**: [Soon]
+- **UpWork**: https://www.upwork.com/freelancers/~01e7822b166891b847
+- **Phone number**: +38 (067) 667-55-80
