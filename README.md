@@ -89,15 +89,6 @@ Experienced and results-driven Data Scientist with comprehensive expertise in al
   - **Data Processing**: Implemented effective data normalization and transformation techniques to optimize model performance.
   - **Evaluation Metrics**: Used precision, F1-score, and ROC-AUC to assess model effectiveness, demonstrating its ability to reliably distinguish between digits. 
 
-- [**Accelerometer Activity Classification**](https://github.com/data-tamer2410/ds-accelerometer-activity-classification)
-
-  **Tech Stack**: SciKit-Learn, Optuna, Pandas, Numpy, Matplotlib, Seaborn.
-
-  In this project, I developed a human activity recognition system that accurately classifies activities such as idle, running, walking, and climbing stairs using accelerometer data. 
-  Leveraging machine learning algorithms, including k-NN and Random Forest, I implemented a pipeline for data preprocessing, feature extraction, and model evaluation. The project 
-  demonstrates my ability to apply advanced analytics to real-world problems and highlights my skills in data science, machine learning, and software development. The high accuracy 
-  achieved not only showcases the effectiveness of the models used but also emphasizes the potential for real-time applications in health monitoring and smart device integration. 
-
 ---
 
 #### **Education**
