@@ -97,7 +97,7 @@ Experienced and results-driven Data Scientist with comprehensive expertise in al
   - Associate's Degree
   - 2022 – 2025
 
-- **Data Scince and Machine Learning**
+- **Data Science and Machine Learning**
   - IT School GoIT
   - May 2024 – Dec 2024
  
