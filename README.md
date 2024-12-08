@@ -100,13 +100,6 @@ Experienced and results-driven Data Scientist with comprehensive expertise in al
 
 ---
 
-#### **Work Experience**
-- **Upwork**
-  - Freelancer
-  - Nov 2024 - Present
-
----
-
 #### **Education**
 - **Separate Structural Subdivision "Kryvyi Rih Vocational College of the National Aviation University"**
   - Computer and Software Engineering
@@ -115,11 +108,7 @@ Experienced and results-driven Data Scientist with comprehensive expertise in al
 
 - **Data Scince and Machine Learning**
   - IT School GoIT
-  - Aug 2024 – Dec 2024
- 
-- **Python Core**
-  - IT School GoIT
-  - May 2024 - Aug 2024
+  - May 2024 – Dec 2024
  
 - **HTML/CSS Marathon**
   - IT School GoIT
