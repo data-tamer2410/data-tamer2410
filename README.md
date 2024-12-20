@@ -99,7 +99,11 @@ Experienced and results-driven Data Scientist with comprehensive expertise in al
 
 - **Data Science and Machine Learning**
   - IT School GoIT
-  - May 2024 – Dec 2024
+  - Aug 2024 – Dec 2024
+
+- **Python Core**
+  - IT School GoIT
+  - May 2024 – Aug 2024
  
 - **HTML/CSS Marathon**
   - IT School GoIT
