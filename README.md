@@ -4,12 +4,12 @@
 
 #### **Summary**
 
-Experienced and results-driven Data Scientist with comprehensive expertise in all stages of data work: from collection and cleansing to analysis and integration. Skilled in web scraping, database management, API integration, natural language processing (NLP), machine learning model development, and optimization. Proven experience in creating interactive dashboards, fine-tuning models for enhanced performance, and deploying them into production environments. Strong analytical skills, adaptability, and a passion for solving complex problems enable the delivery of effective and scalable solutions.
+Experienced and results-driven Data Scientist, with comprehensive expertise in all stages of data work: from collection and cleansing to analysis and integration. Skilled in web scraping, database management, API integration, API development, natural language processing (NLP), machine learning model development, and optimization. Proven experience in creating interactive dashboards, fine-tuning models for enhanced performance, and deploying them into production environments. Strong analytical skills, adaptability, and a passion for solving complex problems enable the delivery of effective and scalable solutions.
   
 ---
 
 #### **Hard Skills**
-- **Programming & Libraries**: Python, SQL, MongoDB, TensorFlow, Keras, SciKit-Learn, NLTK, Requests, BeautifulSoup, Surprise, Numpy, Pandas, Matplotlib, Seaborn, Optuna, Streamlit.
+- **Programming & Libraries**: Python, SQL, MongoDB, TensorFlow, Keras, Scikit-Learn, NLTK, Requests, BeautifulSoup, Surprise, Numpy, Pandas, Matplotlib, Seaborn, Optuna, Streamlit, FastAPI.
 - **Tools**: Docker, Poetry, Git, Conda, Bash.
 
 ---
@@ -23,19 +23,26 @@ Experienced and results-driven Data Scientist with comprehensive expertise in al
 
 ---
 
-#### **Languages**
- 
--  **English**: Pre-Intermediate
--  **Russian**: Native 
--  **Ukrainian**: Native
-
----
-
 #### **Project Experience**
+
+- [**Weather Forecast API**](https://github.com/data-tamer2410/ds-weather-forecast)
+
+  **Tech Stack**: Keras, FastAPI, Docker, Numpy, Pandas, Scikit-Learn, Matplotlib.
+
+  In this project, I developed an RNN-based API to forecast weather conditions for the next day using historical data from the past 7 days. The model was trained on multiple weather 
+  features such as temperature, rainfall, wind speed, and atmospheric pressure, providing precise predictions for parameters like maximum and minimum temperature, rainfall probability, 
+  and wind gust speed. The API was containerized using Docker and deployed on a server, enabling seamless integration and scalability. The endpoint is easily accessible via POST 
+  requests, making it practical for real-world applications in weather monitoring or decision support systems.
+
+  **Key Achievements**:  
+  - **Deep Learning Integration**: Designed and deployed an RNN model optimized for time-series weather data prediction.  
+  - **API Development and Deployment**: Built a FastAPI backend, packaged it in Docker, and deployed it on Render.  
+  - **Efficient Predictions**: Developed an interface that accepts 7 days of weather data and returns precise forecasts, including the probability of rainfall.  
+  - **Data Preprocessing**: Implemented scaling and reshaping mechanisms to prepare complex weather datasets for accurate model inference.  
 
 - [**Sentiment Analysis with RNN**](https://github.com/data-tamer2410/ds-sentiment-analysis-with-rnn)
 
-  **Tech Stack**: Keras, Numpy, Matplotlib, SciKit-Learn.
+  **Tech Stack**: Keras, Numpy, Matplotlib, Scikit-Learn.
 
   In this project, I developed a set of deep learning models to classify movie reviews from the IMDB dataset as positive or negative. Leveraging the sequential nature of text data, I 
   implemented and compared multiple recurrent neural network architectures, including Simple RNN, LSTM, Bidirectional LSTM (BRNN), and Deep Bidirectional LSTM (DBRNN). The dataset 
@@ -50,7 +57,7 @@ Experienced and results-driven Data Scientist with comprehensive expertise in al
 
 - [**Fashion MNIST Classifier 2.0**](https://github.com/data-tamer2410/ds-fashion-mnist-classifier-2.0)
 
-  **Tech Stack**: Keras, SciKit-Learn, Numpy, Matplotlib, Pandas, Streamlit, Docker.
+  **Tech Stack**: Keras, Scikit-Learn, Numpy, Matplotlib, Pandas, Streamlit, Docker.
    
   This project explores advanced techniques for image classification using the Fashion MNIST dataset, where I implemented multiple neural network architectures to enhance accuracy. The  
   task involved classifying images of various clothing items based on grayscale data, using methods such as convolutional neural networks (CNN), VGG16 for feature extraction, and fine-  
@@ -66,7 +73,7 @@ Experienced and results-driven Data Scientist with comprehensive expertise in al
 
 - [**Eyes Classification**](https://github.com/data-tamer2410/ds-eyes-classification)
 
-  **Tech Stack**: Keras, SciKit-Learn, Numpy, Matplotlib.
+  **Tech Stack**: Keras, Scikit-Learn, Numpy, Matplotlib.
    
   In this project, I developed a deep learning model for classifying images of eyes into different categories (open or closed). The dataset consists of various images of human eyes 
   captured in real-life conditions. The model was built using convolutional neural networks (CNNs) and trained to recognize subtle features of the eye, providing a robust classification 
@@ -76,18 +83,6 @@ Experienced and results-driven Data Scientist with comprehensive expertise in al
   - **Deep Learning Architecture**: Implemented CNNs for efficient feature extraction and classification of images.
   - **Data Preprocessing**: Applied data augmentation techniques to enhance the model's generalization ability.
   - **Real-World Use Cases**: The model can be used for real-time applications such as eye health monitoring, security, and accessibility technologies.
-
-- [**Handwritten Digit Recognition**](https://github.com/data-tamer2410/ds-handwritten-digit-recognition)
-
-  **Tech Stack**: TensorFlow, Keras, SciKit-Learn, Numpy, Matplotlib.
-
-  In this project, I developed a neural network model to accurately recognize handwritten digits from the MNIST dataset. The architecture features two hidden layers with sigmoid   
-  activation functions and a softmax output layer for multi-class classification.  
-
-  **Key Achievements**:
-  - **High Accuracy**: Achieved 92.40% accuracy on training data and approximately 89.87% in cross-validation.
-  - **Data Processing**: Implemented effective data normalization and transformation techniques to optimize model performance.
-  - **Evaluation Metrics**: Used precision, F1-score, and ROC-AUC to assess model effectiveness, demonstrating its ability to reliably distinguish between digits. 
 
 ---
 
@@ -108,6 +103,14 @@ Experienced and results-driven Data Scientist with comprehensive expertise in al
 - **HTML/CSS Marathon**
   - IT School GoIT
   - July 2023 - July 2023
+
+---
+
+#### **Languages**
+ 
+-  **English**: Pre-Intermediate
+-  **Russian**: Native 
+-  **Ukrainian**: Native
 
 ---
 
