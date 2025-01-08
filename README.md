@@ -120,6 +120,6 @@ Experienced and results-driven Data Scientist, with comprehensive expertise in a
 
 #### **Contacts**
 - **Email**: vitaliy.dayneko2410@gmail.com
-- **LinkedIn**: [Soon]
+- **LinkedIn**: https://www.linkedin.com/in/vitalii-daineko
 - **UpWork**: https://www.upwork.com/freelancers/~01e7822b166891b847
 - **Phone number**: +38 (067) 667-55-80
