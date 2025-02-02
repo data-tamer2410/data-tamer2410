@@ -110,7 +110,7 @@ Results-driven Data Scientist with expertise in LLMs, Transformers, and end-to-e
 
 #### **Languages**
  
--  **English**: Pre-Intermediate (actively improving)
+-  **English**: Pre-Intermediate (improving)
 -  **Russian**: Native 
 -  **Ukrainian**: Native
 
