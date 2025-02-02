@@ -4,12 +4,13 @@
 
 #### **Summary**
 
-Experienced and results-driven Data Scientist, with comprehensive expertise in all stages of data work: from collection and cleansing to analysis and integration. Skilled in web scraping, database management, API integration, API development, natural language processing (NLP), machine learning model development, and optimization. Proven experience in creating interactive dashboards, fine-tuning models for enhanced performance, and deploying them into production environments. Strong analytical skills, adaptability, and a passion for solving complex problems enable the delivery of effective and scalable solutions.
+Results-driven Data Scientist with expertise in LLMs, Transformers, and end-to-end machine learning. Skilled in data analysis, NLP, web scraping, API development, and model fine-tuning for production. Strong background in data integration, database management, and interactive dashboard creation. Passionate about solving complex problems and building scalable solutions.
   
 ---
 
 #### **Hard Skills**
-- **Programming & Libraries**: Python, SQL, MongoDB, TensorFlow, Keras, Scikit-Learn, NLTK, Requests, BeautifulSoup, Surprise, Numpy, Pandas, Matplotlib, Seaborn, Optuna, Streamlit, FastAPI.
+- **Programming & Libraries**: Python, SQL, MongoDB, TensorFlow, Keras, Scikit-Learn, Transformers, Numpy, Pandas, Matplotlib, Seaborn, BeautifulSoup, Streamlit, FastAPI, NLTK, 
+  Requests, Surprise, Optuna.
 - **Tools**: Docker, Poetry, Git, Conda, Bash.
 
 ---
@@ -24,6 +25,21 @@ Experienced and results-driven Data Scientist, with comprehensive expertise in a
 ---
 
 #### **Project Experience**
+
+- [**Doctor Chat**](https://github.com/data-tamer2410/ds-doctor-chat)
+
+  **Tech Stack**: TensorFlow, Transformers, Docker, Sreamlit, Pandas.
+
+  In this project, I developed an AI-powered chatbot that provides medical advice and recommendations. The bot utilizes a fine-tuned GPT-2 model to generate responses in a structured 
+  dialogue format between the patient and a virtual doctor. The application is built using Streamlit and deployed on a server, ensuring seamless accessibility. The chatbot offers 
+  personalized health advice, making it an essential tool for quick consultations and initial diagnostics.
+
+  **Key Achievements**:  
+  - **AI-Powered Chatbot with High Accuracy**: Fine-tuned the GPT-2 model to achieve high accuracy in generating medical advice, reducing perplexity to **12.91**.  
+  - **Optimized Responses for Medical Domain**: Implemented a rigorous fine-tuning process to tailor the responses specifically to the medical domain, ensuring that the chatbot provides 
+  accurate, reliable, and contextually appropriate answers.  
+  - **User-Friendly Interface**: Built an intuitive and engaging front-end with Streamlit, allowing users to interact easily with the bot and receive personalized advice.  
+  - **Scalable and Efficient Deployment**: Deployed the solution in a Docker container, ensuring scalability, easy deployment, and enhanced performance across different environments.
 
 - [**Weather Forecast API**](https://github.com/data-tamer2410/ds-weather-forecast)
 
@@ -71,25 +87,11 @@ Experienced and results-driven Data Scientist, with comprehensive expertise in a
   - **Previous Work Integration**: Built on a previous project where I created a simpler fully connected classifier for the Fashion MNIST dataset.  
   - **Real-World Impact**: Demonstrated the potential for using these techniques in practical applications like retail and fashion e-commerce. 
 
-- [**Eyes Classification**](https://github.com/data-tamer2410/ds-eyes-classification)
-
-  **Tech Stack**: Keras, Scikit-Learn, Numpy, Matplotlib.
-   
-  In this project, I developed a deep learning model for classifying images of eyes into different categories (open or closed). The dataset consists of various images of human eyes 
-  captured in real-life conditions. The model was built using convolutional neural networks (CNNs) and trained to recognize subtle features of the eye, providing a robust classification 
-  solution that can be used in applications such as facial recognition or eye-tracking systems.
-
-  **Key Achievements**:
-  - **Deep Learning Architecture**: Implemented CNNs for efficient feature extraction and classification of images.
-  - **Data Preprocessing**: Applied data augmentation techniques to enhance the model's generalization ability.
-  - **Real-World Use Cases**: The model can be used for real-time applications such as eye health monitoring, security, and accessibility technologies.
-
 ---
 
 #### **Education**
 - **Separate Structural Subdivision "Kryvyi Rih Vocational College of the National Aviation University"**
-  - Computer and Software Engineering
-  - Associate's Degree
+  - Associate Degree in Computer and Software Engineering
   - 2022 – 2025
 
 - **Data Science and Machine Learning**
@@ -108,7 +110,7 @@ Experienced and results-driven Data Scientist, with comprehensive expertise in a
 
 #### **Languages**
  
--  **English**: Pre-Intermediate
+-  **English**: Pre-Intermediate (actively improving)
 -  **Russian**: Native 
 -  **Ukrainian**: Native
 
