@@ -26,7 +26,7 @@ Results-driven Data Scientist with expertise in LLMs, Transformers, and end-to-e
 
 #### **Project Experience**
 
-- [**Doctor Chat**](https://github.com/data-tamer2410/ds-doctor-chat)
+- [**Doctor Chat – AI Assistant for Medical Consultations**](https://github.com/data-tamer2410/ds-doctor-chat)
 
   **Tech Stack**: TensorFlow, Transformers, Docker, Sreamlit, Pandas.
 
