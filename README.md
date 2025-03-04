@@ -11,7 +11,7 @@ Results-driven Data Scientist with expertise in LLMs, Transformers, and end-to-e
 #### **Hard Skills**
 - **Programming & Libraries**: Python, SQL, MongoDB, TensorFlow, Keras, Scikit-Learn, Transformers, Numpy, Pandas, Matplotlib, Seaborn, BeautifulSoup, Streamlit, FastAPI, NLTK, 
   Requests, Surprise, Optuna.
-- **Tools**: Docker, Poetry, Git, Conda, Bash.
+- **Tools**: PowerBI, Docker, Poetry, Git, Conda, Bash.
 
 ---
 
