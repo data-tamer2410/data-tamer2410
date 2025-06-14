@@ -4,7 +4,7 @@
 
 #### **Summary**
 
-Results-driven Data Scientist with expertise in LLMs, Transformers, and end-to-end machine learning. Skilled in data analysis, NLP, web scraping, API development, and model fine-tuning for production. Strong background in data integration, database management, and interactive dashboard creation. Passionate about solving complex problems and building scalable solutions.
+Hi 👋, I'm a results-driven Backend and AI Engineer with expertise in LLMs, Transformers, and end-to-end machine learning. Skilled in data analysis, NLP, web scraping, API development, and model fine-tuning for production. Strong background in data integration, database management, and interactive dashboard creation. Passionate about solving complex problems and building scalable solutions.
   
 ---
 
