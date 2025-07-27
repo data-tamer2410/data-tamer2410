@@ -1,10 +1,10 @@
-### **AI Engineer | Machine Learning Engineer | Backend Developer**
+### **AI & ML Engineer | Deep Learning, NLP, Computer Vision | LLMs Expert**
 
 ---
 
 #### **Summary**
 
-Hi 👋, I'm a results-driven AI Engineer | Machine Learning Engineer | Backend Developer with expertise in LLMs, Transformers, and end-to-end machine learning. Skilled in data analysis, NLP, web scraping, API development, and model fine-tuning for production. Strong background in data integration, database management, and interactive dashboard creation. Passionate about solving complex problems and building scalable solutions.
+Hi 👋, I'm a results-driven AI & ML Engineer | Deep Learning, NLP, Computer Vision | LLMs Expert with expertise in LLMs, Transformers, and end-to-end machine learning. Skilled in data analysis, NLP, web scraping, API development, and model fine-tuning for production. Strong background in data integration, database management, and interactive dashboard creation. Passionate about solving complex problems and building scalable solutions.
   
 ---
 
