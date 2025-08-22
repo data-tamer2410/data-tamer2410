@@ -1,32 +1,61 @@
-### **AI & ML Engineer | Deep Learning, NLP, Computer Vision | LLMs Expert**
+<h1 align="center">🚀 AI & ML Engineer | Deep Learning, NLP, Computer Vision | LLMs Expert</h1>
 
----
 
-#### **Summary**
+<h3 align="center">Summary</h3>
 
 Hi 👋, I'm a results-driven AI & ML Engineer | Deep Learning, NLP, Computer Vision | LLMs Expert with expertise in LLMs, Transformers, and end-to-end machine learning. Skilled in data analysis, NLP, web scraping, API development, and model fine-tuning for production. Strong background in data integration, database management, and interactive dashboard creation. Passionate about solving complex problems and building scalable solutions.
   
 ---
 
-#### **Hard Skills**
-- **Programming & Libraries**: Python, SQL, MongoDB, TensorFlow, Keras, Scikit-Learn, Transformers, Numpy, Pandas, Matplotlib, Seaborn, BeautifulSoup, Streamlit, FastAPI, NLTK, 
-  Requests, Surprise, Optuna.
-- **Tools**: PowerBI, Docker, Poetry, Git, Conda, Bash.
+<h3 align="center">Hard Skills</h3>
+
+**Programming & Libraries**  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-76b900?style=for-the-badge&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154570?style=for-the-badge&logo=python&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-FF6F20?style=for-the-badge&logo=python&logoColor=white)
+![Surprise](https://img.shields.io/badge/Surprise-5A20CB?style=for-the-badge&logo=python&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-2D4F8B?style=for-the-badge&logo=python&logoColor=white)
+
+
+**Tools** 
+
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 
 ---
 
-#### **Soft Skills**
-- Team collaboration
-- Strong communication
-- Critical and analytical thinking
-- Problem-solving
-- Adaptability to new tools and technologies
+<h3 align="center">Soft Skills</h3>
+
+![Teamwork](https://img.shields.io/badge/🤝-Teamwork-blue?style=for-the-badge)
+![Communication](https://img.shields.io/badge/💬-Communication-green?style=for-the-badge)
+![Critical Thinking](https://img.shields.io/badge/🧠-Critical_Thinking-orange?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/🔍-Problem_Solving-red?style=for-the-badge)
+![Adaptability](https://img.shields.io/badge/⚡-Adaptability-purple?style=for-the-badge)
 
 ---
 
-#### **Project Experience**
+<h3 align="center">Project Experience</h3>
 
-- [**Doctor Chat – AI Assistant for Medical Consultations**](https://github.com/data-tamer2410/ds-doctor-chat)
+- 🚀 [**Doctor Chat – AI Assistant for Medical Consultations**](https://github.com/data-tamer2410/ds-doctor-chat)
 
   **Tech Stack**: TensorFlow, Transformers, Docker, Sreamlit, Pandas.
 
@@ -41,7 +70,7 @@ Hi 👋, I'm a results-driven AI & ML Engineer | Deep Learning, NLP, Computer Vi
   - **User-Friendly Interface**: Built an intuitive and engaging front-end with Streamlit, allowing users to interact easily with the bot and receive personalized advice.  
   - **Scalable and Efficient Deployment**: Deployed the solution in a Docker container, ensuring scalability, easy deployment, and enhanced performance across different environments.
 
-- [**Weather Forecast API**](https://github.com/data-tamer2410/ds-weather-forecast)
+- ☀️ [**Weather Forecast API**](https://github.com/data-tamer2410/ds-weather-forecast)
 
   **Tech Stack**: Keras, FastAPI, Docker, Numpy, Pandas, Scikit-Learn, Matplotlib.
 
@@ -56,7 +85,7 @@ Hi 👋, I'm a results-driven AI & ML Engineer | Deep Learning, NLP, Computer Vi
   - **Efficient Predictions**: Developed an interface that accepts 7 days of weather data and returns precise forecasts, including the probability of rainfall.  
   - **Data Preprocessing**: Implemented scaling and reshaping mechanisms to prepare complex weather datasets for accurate model inference.  
 
-- [**Sentiment Analysis with RNN**](https://github.com/data-tamer2410/ds-sentiment-analysis-with-rnn)
+- 🎬 [**Sentiment Analysis with RNN**](https://github.com/data-tamer2410/ds-sentiment-analysis-with-rnn)
 
   **Tech Stack**: Keras, Numpy, Matplotlib, Scikit-Learn.
 
@@ -71,7 +100,7 @@ Hi 👋, I'm a results-driven AI & ML Engineer | Deep Learning, NLP, Computer Vi
   - **Data Preprocessing**: Managed data padding and tokenization to prepare text data for recurrent models.  
   - **Model Evaluation**: Visualized training and validation results, analyzing differences in model performance across architectures.
 
-- [**Fashion MNIST Classifier 2.0**](https://github.com/data-tamer2410/ds-fashion-mnist-classifier-2.0)
+- 👕 [**Fashion MNIST Classifier 2.0**](https://github.com/data-tamer2410/ds-fashion-mnist-classifier-2.0)
 
   **Tech Stack**: Keras, Scikit-Learn, Numpy, Matplotlib, Pandas, Streamlit, Docker.
    
@@ -89,7 +118,8 @@ Hi 👋, I'm a results-driven AI & ML Engineer | Deep Learning, NLP, Computer Vi
 
 ---
 
-#### **Education**
+<h3 align="center">Education</h3>
+
 - **Separate Structural Subdivision "Kryvyi Rih Vocational College of the National Aviation University"**
   - Associate Degree in Computer and Software Engineering
   - 2022 – 2025
@@ -108,7 +138,7 @@ Hi 👋, I'm a results-driven AI & ML Engineer | Deep Learning, NLP, Computer Vi
 
 ---
 
-#### **Languages**
+<h3 align="center">Languages</h3>
  
 -  **English**: Pre-Intermediate (improving)
 -  **Russian**: Native 
@@ -120,42 +150,18 @@ Hi 👋, I'm a results-driven AI & ML Engineer | Deep Learning, NLP, Computer Vi
 
 ---
 
-#### **Contacts**
-- **Email**: vitaliy.dayneko2410@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/vitalii-daineko
-- **UpWork**: https://www.upwork.com/freelancers/~01e7822b166891b847
-- **Phone number**: +38 (067) 667-55-80
+<h3 align="center">Contacts</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vitalii-daineko)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitaliy.dayneko2410@gmail.com)
+[![UpWork](https://img.shields.io/badge/UpWork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e7822b166891b847)
+[![Phone](https://img.shields.io/badge/Phone-+38%20(067)%20667--55--80-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+380676675580)
+
 
 ![Vitalii's Graph](https://github-readme-activity-graph.vercel.app/graph?username=data-tamer2410&theme=tokyo-night)
 
+<div align="center">
+  
+  ![Snake dark](https://github.com/data-tamer2410/data-tamer2410/blob/output/snake-dark.svg)
 
-### 📊 GitHub Stats
-![Vitalii's GitHub stats](https://github-readme-stats.vercel.app/api?username=data-tamer2410&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=data-tamer2410&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=data-tamer2410&theme=tokyonight)
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-
-
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-
-### 🚀 Featured Projects
-- [Sky View](https://github.com/data-tamer2410/ds-sky-view) 🌦 — AI платформа прогнозу погоди  
-- [MovieLens Recommender](https://github.com/data-tamer2410/ds-movielens-recommender-system) 🎬 — Рекомендаційна система для фільмів  
-- [Doctor Chat](https://github.com/data-tamer2410/ds-doctor-chat) 🤖 — AI-медичний чатбот
-
-![Visitors](https://komarev.com/ghpvc/?username=data-tamer2410&color=blue&style=flat-square)
-![Code Time](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/data-tamer2410/interval:30_days&label=Code%20Time)
-
-
-
-![Snake animation](https://github.com/data-tamer2410/data-tamer2410/blob/output/snake.svg)
-
-
-![Jokes](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-
+</div>
