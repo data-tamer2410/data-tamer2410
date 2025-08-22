@@ -126,4 +126,35 @@ Hi 👋, I'm a results-driven AI & ML Engineer | Deep Learning, NLP, Computer Vi
 - **UpWork**: https://www.upwork.com/freelancers/~01e7822b166891b847
 - **Phone number**: +38 (067) 667-55-80
 
+![Vitalii's Graph](https://github-readme-activity-graph.vercel.app/graph?username=data-tamer2410&theme=tokyo-night)
+
+
+### 📊 GitHub Stats
 ![Vitalii's GitHub stats](https://github-readme-stats.vercel.app/api?username=data-tamer2410&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=data-tamer2410&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=data-tamer2410&theme=tokyonight)
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+
+
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+
+### 🚀 Featured Projects
+- [Sky View](https://github.com/data-tamer2410/ds-sky-view) 🌦 — AI платформа прогнозу погоди  
+- [MovieLens Recommender](https://github.com/data-tamer2410/ds-movielens-recommender-system) 🎬 — Рекомендаційна система для фільмів  
+- [Doctor Chat](https://github.com/data-tamer2410/ds-doctor-chat) 🤖 — AI-медичний чатбот
+
+![Visitors](https://komarev.com/ghpvc/?username=data-tamer2410&color=blue&style=flat-square)
+![Code Time](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/data-tamer2410/interval:30_days&label=Code%20Time)
+
+
+
+![Snake animation](https://github.com/data-tamer2410/data-tamer2410/blob/output/github-contribution-grid-snake.svg)
+
+![Jokes](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+
