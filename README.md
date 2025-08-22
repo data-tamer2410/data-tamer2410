@@ -125,3 +125,5 @@ Hi 👋, I'm a results-driven AI & ML Engineer | Deep Learning, NLP, Computer Vi
 - **LinkedIn**: https://www.linkedin.com/in/vitalii-daineko
 - **UpWork**: https://www.upwork.com/freelancers/~01e7822b166891b847
 - **Phone number**: +38 (067) 667-55-80
+
+![Vitalii's GitHub stats](https://github-readme-stats.vercel.app/api?username=data-tamer2410&show_icons=true&theme=tokyonight)
