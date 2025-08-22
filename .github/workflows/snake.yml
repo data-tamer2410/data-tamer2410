@@ -14,10 +14,10 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Generate snake animation
-        uses: Platane/snk@master
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: data-tamer2410   # <-- твій GitHub нік
-          outputs: dist/github-contribution-grid-snake.svg
+          github_user_name: data-tamer2410   # <-- твій нік
+          outputs: dist/snake.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v2.1.3
