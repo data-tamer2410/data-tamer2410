@@ -153,7 +153,8 @@ Hi 👋, I'm a results-driven AI & ML Engineer | Deep Learning, NLP, Computer Vi
 
 
 
-![Snake animation](https://github.com/data-tamer2410/data-tamer2410/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/data-tamer2410/data-tamer2410/blob/output/snake.svg)
+
 
 ![Jokes](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
