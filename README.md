@@ -3,7 +3,16 @@
 
 <h3 align="center">Summary</h3>
 
-Hi 👋, I'm a results-driven AI & ML Engineer | Deep Learning, NLP, Computer Vision | LLMs Expert with expertise in LLMs, Transformers, and end-to-end machine learning. Skilled in data analysis, NLP, web scraping, API development, and model fine-tuning for production. Strong background in data integration, database management, and interactive dashboard creation. Passionate about solving complex problems and building scalable solutions.
+👋 Hi, I’m **Vitalii – AI Engineer, Machine Learning Engineer, and Backend Developer** with hands-on expertise in **LLMs, Transformers, NLP, and end-to-end ML solutions**.
+
+I help businesses **automate processes, build intelligent chatbots, and develop scalable AI-powered applications**. From **data analysis and web scraping** to **API development and production deployment**, I deliver solutions that are not only accurate but also practical and business-oriented.
+
+💡 What I do best:
+
+* 🤖 **AI Chatbots & Virtual Assistants** – LLMs, GPT, sentiment analysis, medical & e-commerce bots
+* 📊 **Data Science & Machine Learning** – NLP, Computer Vision, Time-Series Forecasting
+* 🖥 **Backend Development** – FastAPI, Docker, SQL, MongoDB, scalable architectures
+* 📈 **Automation & Integration** – CRM, payment systems, dashboards, APIs
   
 ---
 
@@ -140,9 +149,14 @@ Hi 👋, I'm a results-driven AI & ML Engineer | Deep Learning, NLP, Computer Vi
 
 <h3 align="center">Languages</h3>
  
--  **English**: Pre-Intermediate (improving)
--  **Russian**: Native 
--  **Ukrainian**: Native
+-  🇬🇧 **English**: Pre-Intermediate (improving)
+-  🇷🇺 **Russian**: Native 
+-  🇺🇦 **Ukrainian**: Native
+
+---
+<h3 align="center">Let’s build something great together!</h3>
+
+I’m ready to help you transform your idea into a working **AI-powered product**.
 
 ---
 
