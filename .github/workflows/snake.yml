@@ -1,26 +1,25 @@
 name: Generate Snake
 
 on:
-  schedule: # запускається кожного дня опівночі
-    - cron: "0 0 * * *"
-  workflow_dispatch: # запуск вручну
+  schedule:
+    - cron: "0 0 * * *"   # запуск щодня о 00:00
+  workflow_dispatch:      # запуск вручну
 
 permissions:
-  contents: write   # <-- дає право пушити у репозиторій
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v3
 
-      - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
+      - name: Generate snake.svg
+        uses: Platane/snk@v3
         with:
-          github_user_name: data-tamer2410   # <-- твій нік
-          svg_out_path: dist/snake.svg       # <-- правильний параметр
+          github_user_name: data-tamer2410
+          outputs: dist/snake.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v2.1.3
